@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Contenido
+
+Este repositorio contiene un ejemplo que hice para demostrar como funcionan los *portales* en **React**. Aún es válido el ejemplo, solo que fue creado con una herramienta llamada [Create React App](https://github.com/facebook/create-react-app), la cual era usada en su momento.
 
 ## Available Scripts
 
